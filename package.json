@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list-webpack-day",
+  "version": "1.0.0",
+  "description": "Zach and Zayar webpack shopping list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-heron/api-day-zach-zayar.git"
+  },
+  "author": "Zach and Zayar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-heron/api-day-zach-zayar/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-heron/api-day-zach-zayar#readme"
+}
