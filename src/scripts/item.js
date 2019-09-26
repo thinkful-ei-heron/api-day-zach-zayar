@@ -1,4 +1,6 @@
-const validateName = function(name) {
+import cuid from 'cuid';
+
+const validateName = function (name) {
   if (!name) throw new TypeError('Name must not be blank');
 };
 
